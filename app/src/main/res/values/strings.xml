@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GoogleMapProject</string>
+    <string name="home_button_text">&lt;&lt;&lt;</string>
+    <string name="next_button_initial">1 &gt;&gt;</string>
+    <string name="next_button_text">%1$s &gt;&gt;</string>
+    <string-array name="crimes">
+        <item>MAJOR CRIMES</item>
+        <item>ARSON</item>
+        <item>ASSAULT</item>
+        <item>SEX OFFENSE</item>
+        <item>BURGLARY</item>
+        <item>THEFT</item>
+        <item>HOMICIDE</item>
+        <item>KIDNAPPING</item>
+        <item>NARCOTICS</item>
+    </string-array>
+</resources>
